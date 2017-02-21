@@ -1,6 +1,6 @@
 # activerecord_lookup_or_initialize
 
-Extension for ActiveRecord::Relation.
+ActiveRecord::Relation extension.
 Search object inside association. 
 
 

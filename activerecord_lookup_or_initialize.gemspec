@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vital.ryabchinskiy@gmail.com"]
 
   spec.summary       = "Find or initialize object in collection"
-  spec.description   = "Extension for ActiveRecord::Relation, find object in collection if it exists or build new one"
+  spec.description   = "ActiveRecord::Relation extension, find object in collection if it exists or build new one"
   spec.homepage      = "https://github.com/vitalinfo/activerecord_lookup_or_initialize"
   spec.license       = "MIT"
 
