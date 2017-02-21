@@ -1,4 +1,4 @@
-# activerecord_lookup_or_initialize
+# activerecord_lookup_or_initialize [![CircleCI](https://circleci.com/gh/vitalinfo/activerecord_lookup_or_initialize.svg?style=svg)](https://circleci.com/gh/vitalinfo/activerecord_lookup_or_initialize)
 
 ActiveRecord::Relation extension.
 Search object inside association. 
